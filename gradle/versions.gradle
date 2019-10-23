@@ -1,0 +1,9 @@
+ext.versions = [
+        scala    : [
+                major: "2.12",
+                minor: "7"
+        ],
+        scalatest: "3.0.5",
+        pegdown  : "1.4.2",
+        scalaXml : "1.1.1"
+]
